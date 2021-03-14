@@ -11,8 +11,8 @@
 #define DHT_PIN 23
 #define DHT_TYPE DHT11
 
-char *ssid = "COMHEM_77cb2e";
-char *pass = "fjnwymyy";
+char *ssid = "wifi";
+char *pass = "lösen";
 
 char *conn = "HostName=IOT20-StudentAWHub.azure-devices.net;DeviceId=7c:9e:bd:f6:d3:dc;SharedAccessKey=QYByxLJDUws7++67olawEwyNX4A11EJSBxALbECpt4s=";
 
